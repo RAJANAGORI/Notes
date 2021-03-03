@@ -1,0 +1,4 @@
+- Go to Mozilla and type about:config
+- Accept the risk and continue.
+- Now, search network.proxy.allow_hijacking_localhost and set the value from false to true
+- Send request from the localhost, it will start intercepting
